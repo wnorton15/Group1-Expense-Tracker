@@ -1,0 +1,11 @@
+C:\Users\norton402\Documents\Cita 280\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe.config
+C:\Users\norton402\Documents\Cita 280\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe
+C:\Users\norton402\Documents\Cita 280\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.pdb
+C:\Users\norton402\Documents\Cita 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csprojAssemblyReference.cache
+C:\Users\norton402\Documents\Cita 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Login.resources
+C:\Users\norton402\Documents\Cita 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.AddUser.resources
+C:\Users\norton402\Documents\Cita 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Properties.Resources.resources
+C:\Users\norton402\Documents\Cita 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.GenerateResource.cache
+C:\Users\norton402\Documents\Cita 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\norton402\Documents\Cita 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.exe
+C:\Users\norton402\Documents\Cita 280\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.pdb

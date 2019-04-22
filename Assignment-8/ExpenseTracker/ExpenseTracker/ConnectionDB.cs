@@ -69,10 +69,11 @@ namespace ExpenseTracker
                 db.Close();
                 MessageBox.Show("Data is updated!");
             }
-            catch
+            catch (Exception e)
             {
-                MessageBox.Show("The data is not saved!", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
+                //MessageBox.Show("The data is not saved!", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(e.Message);
             }
         }
         public OleDbDataReader findData(string sql)
